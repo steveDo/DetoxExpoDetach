@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4C6BC3DD-E446-40B8-A735-350D4C194416</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C6BC3DD-E446-40B8-A735-350D4C194416.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>detoxexpo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>detoxexpo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project detoxexpo with scheme detoxexpo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583637988.93342602</real>
+			<key>timeStoppedRecording</key>
+			<real>583637990.36080897</real>
+			<key>title</key>
+			<string>Building project detoxexpo with scheme detoxexpo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4C6BC3DD-E446-40B8-A735-350D4C194416</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
